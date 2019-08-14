@@ -1,0 +1,53 @@
+.Page {
+  color: white;
+  text-align: center;
+}
+.Page img {
+  margin-top: 5px;
+}
+.Page a {
+  color: lightblue;
+  display: flex;
+  justify-content: center;
+}
+
+.mobile {
+  margin-bottom: 10px !important;
+  margin-top: 10px !important;
+}
+
+.Page .Button {
+  background: white;
+  padding: 8px 15px;
+  border-radius: 10px;
+  border: none;
+  color: #171d30;
+  font-size: 16px;
+  margin: 10px;
+  margin-bottom: 10px;
+}
+.Page h1 {
+  margin: 0;
+  padding: 0;
+}
+.Page p {
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+.Wrapper {
+  display: flex;
+  justify-content: space-evenly;
+  width: 50vw;
+
+  margin-left: 25vw;
+}
+.LogoPlatzi {
+  padding-top: 10px;
+}
+.platziLogo {
+  margin: -7px;
+}
+.title {
+  color: #e82636;
+}
